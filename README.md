@@ -1,1 +1,1 @@
-# How-to-Create-an-Azure-Resource-Group-and-Virtual-Machine
+How to create an Azure resource group and storage account
