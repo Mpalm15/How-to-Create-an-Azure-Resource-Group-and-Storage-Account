@@ -1,21 +1,15 @@
 How to create an Azure resource group and storage account
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="920" height="920" alt="azure" src="https://github.com/user-attachments/assets/fcc1e18c-2426-427a-b345-db8eb60fac46" />
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Azure - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of an Azure resource group and storage account.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
