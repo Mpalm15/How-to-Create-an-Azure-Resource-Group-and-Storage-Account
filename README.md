@@ -1,6 +1,6 @@
-How to create an Azure resource group and storage account
+How To Create An Azure Resource Group And Storage Account
 <p align="center">
-<img width="920" height="920" alt="azure" src="https://github.com/user-attachments/assets/fcc1e18c-2426-427a-b345-db8eb60fac46" />
+<img width="654" height="627" alt="azure" src="https://github.com/user-attachments/assets/142a49fe-79f1-40e3-aa4e-c0b7d7bfe3b0" />
 </p>
 
 <h1>Azure - Prerequisites and Installation</h1>
