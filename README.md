@@ -23,11 +23,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1) Have an active Azure account with at least one valid subscription.
+2) Ensure you have Owner or Contributor permissions to create resources.
+3) Confirm reliable internet access and a supported browser for the Azure Portal.
+4) Decide on a naming convention for all resources in the project.
+5) Prepare a unique Resource Group name and select the Azure region for deployment.
+6) Plan optional tags or metadata (e.g., Owner, Department) for organization.
+7) Prepare a globally unique Storage Account name that meets Azure naming rules.
+8) Decide on the redundancy option (LRS, GRS, or ZRS) and whether to use default or custom advanced settings.
 
 <h2>Installation Steps</h2>
 
