@@ -23,14 +23,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-1) Have an active Azure account with at least one valid subscription.
-2) Ensure you have Owner or Contributor permissions to create resources.
-3) Confirm reliable internet access and a supported browser for the Azure Portal.
-4) Decide on a naming convention for all resources in the project.
-5) Prepare a unique Resource Group name and select the Azure region for deployment.
-6) Plan optional tags or metadata (e.g., Owner, Department) for organization.
-7) Prepare a globally unique Storage Account name that meets Azure naming rules.
-8) Decide on the redundancy option (LRS, GRS, or ZRS) and whether to use default or custom advanced settings.
+1) Create a free subscription: https://azure.microsoft.com/en-us/free/
+2) Log into the Azure Portal: https://portal.azure.com
+3) Verify you have the proper role assignments (Owner or Contributor) for your subscription.
+4) Confirm billing is active and linked to your subscription to avoid deployment errors.
+5) Ensure you have a supported web browser (Edge, Chrome, or Firefox) with reliable internet access.
+6) Decide on a resource naming convention to keep your environment consistent.
+7) Prepare a unique Resource Group name (e.g., Demo-Project-Marcus).
+8) Choose the Azure region closest to you or required by your project.
+9) Decide if you want to apply optional tags (e.g., Owner: youremail@domain.com) for resource organization.
+10) Prepare a globally unique Storage Account name (3–24 lowercase characters, numbers allowed).
+11) Decide on the performance tier (Standard or Premium) for your Storage Account.
+12) Select the redundancy option (LRS, ZRS, or GRS) based on cost vs. durability.
+13) Review networking and security settings to determine if you’ll keep defaults or customize them.
 
 <h2>Installation Steps</h2>
 
