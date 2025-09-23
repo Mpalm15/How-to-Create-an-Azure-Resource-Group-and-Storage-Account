@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 
 <p>
 
-Part 1: Create a Resource Group
+<h2>Part 1: Create a Resource Group</h2>
 
 <img width="1100" height="213" alt="sc1" src="https://github.com/user-attachments/assets/020eda54-a535-4830-b69a-82ace6935679" />
 
@@ -53,10 +53,12 @@ Once signed in, you’ll see the Azure Portal dashboard with service icons such 
 </p>
 <p>
 Step 2: Open the Resource Groups section
+  
 From the dashboard, click Resource groups to manage existing groups or create a new one.
 You’ll be taken to the Resource Groups page where you can view all groups linked to your subscription.
 
 Step 3: Start creating a new Resource Group
+
 On the Resource Groups page, click + Create at the top.
 This opens the Resource Group creation wizard.
 </p>
@@ -67,6 +69,7 @@ This opens the Resource Group creation wizard.
 </p>
 <p>
 Step 4: Fill in the Resource Group details
+  
 Subscription: Select your active subscription (e.g., Azure subscription 1).
 Resource group name: Enter a unique name such as Demo-Project-Marcus.
 Region: Choose the closest or required region (e.g., (US) East US).
@@ -79,6 +82,7 @@ Region: Choose the closest or required region (e.g., (US) East US).
 
 </p>
 Step 5: Add optional tags
+
 Click the Tags tab.
 Tags are metadata used for organizing resources. Example: Add Owner as the name and your email address as the value
 </p>
@@ -89,23 +93,50 @@ Tags are metadata used for organizing resources. Example: Add Owner as the name 
 </p>
 <p>
 Step 6: Review and create the Resource Group
+  
 Go to the Review + create tab.
 Confirm all details: subscription, Resource Group name, region, and tags.
 If everything is correct, click Create.
 </p>
 <br />
 
-Part 2: Create a Storage Account
+<h2>Part 2: Create a Storage Account</h2>
 
 <p>
 <img width="546" height="195" alt="Sc6" src="https://github.com/user-attachments/assets/da58f6fc-b609-4714-9e7a-0a3a07adf5d4" />
 </p>
 <p>
 Step 7: Search for Storage Accounts
+  
 In the search bar at the top of the Azure Portal, type storage accounts.
 Select Storage accounts from the results.
 </p>
 <br />
+
+<p>
+<img width="1121" height="174" alt="Sc7" src="https://github.com/user-attachments/assets/85dd416b-5b14-412d-8d23-f2017d19e6aa" />
+</p>
+<p>
+Step 8: Start creating a new Storage Account
+
+In the Storage center, click + Create to launch the storage account wizard.
+</p>
+<br />
+
+<p>
+ <img width="742" height="684" alt="Sc8" src="https://github.com/user-attachments/assets/3dc003b4-a376-4d9e-b10e-d110e4732dc1" />
+ </p>
+ <p>
+ Step 9: Choose subscription and resource group
+
+Under Project details, confirm your subscription.
+Select the Resource Group you just created (Demo-Project-Marcus)
+</p>
+<br />
+
+<p>
+  
+</p>
 
 
 
