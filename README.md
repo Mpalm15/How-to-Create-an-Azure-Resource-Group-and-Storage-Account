@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 
 <h2>Operating Systems Used </h2>
 
@@ -49,15 +49,21 @@ Once signed in, you’ll see the Azure Portal dashboard with service icons such 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="647" height="224" alt="Sc2" src="https://github.com/user-attachments/assets/1157626b-a411-4cf4-8e4c-0ba5cd0dae32" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Open the Resource Groups section
+From the dashboard, click Resource groups to manage existing groups or create a new one.
+You’ll be taken to the Resource Groups page where you can view all groups linked to your subscription.
+
+Step 3: Start creating a new Resource Group
+On the Resource Groups page, click + Create at the top.
+This opens the Resource Group creation wizard.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="742" height="355" alt="Sc3" src="https://github.com/user-attachments/assets/e41b409d-b0fe-4cdd-898a-784c709a6507" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
