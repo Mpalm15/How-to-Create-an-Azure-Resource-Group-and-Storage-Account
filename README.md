@@ -66,6 +66,22 @@ This opens the Resource Group creation wizard.
 <img width="742" height="355" alt="Sc3" src="https://github.com/user-attachments/assets/e41b409d-b0fe-4cdd-898a-784c709a6507" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4: Fill in the Resource Group details
+Subscription: Select your active subscription (e.g., Azure subscription 1).
+Resource group name: Enter a unique name such as Demo-Project-Marcus.
+Region: Choose the closest or required region (e.g., (US) East US).
 </p>
 <br />
+
+<p>
+<img width="724" height="356" alt="Sc4" src="https://github.com/user-attachments/assets/530b2c02-96f7-4521-b97f-e71b398edd85" />
+</p>p>
+
+</p>
+Step 5: Add optional tags
+Click the Tags tab.
+Tags are metadata used for organizing resources. Example: Add Owner as the name and your email address as the value
+</p>
+<br />
+
+
