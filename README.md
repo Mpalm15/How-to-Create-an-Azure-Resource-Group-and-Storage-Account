@@ -75,7 +75,7 @@ Region: Choose the closest or required region (e.g., (US) East US).
 
 <p>
 <img width="724" height="356" alt="Sc4" src="https://github.com/user-attachments/assets/530b2c02-96f7-4521-b97f-e71b398edd85" />
-</p>p>
+</p>
 
 </p>
 Step 5: Add optional tags
@@ -83,5 +83,31 @@ Click the Tags tab.
 Tags are metadata used for organizing resources. Example: Add Owner as the name and your email address as the value
 </p>
 <br />
+
+<p>
+<img width="431" height="398" alt="Sc5" src="https://github.com/user-attachments/assets/326d14c3-6f84-48c9-b718-4c380d1148ba" />
+</p>
+<p>
+Step 6: Review and create the Resource Group
+Go to the Review + create tab.
+Confirm all details: subscription, Resource Group name, region, and tags.
+If everything is correct, click Create.
+</p>
+<br />
+
+Part 2: Create a Storage Account
+
+<p>
+<img width="546" height="195" alt="Sc6" src="https://github.com/user-attachments/assets/da58f6fc-b609-4714-9e7a-0a3a07adf5d4" />
+</p>
+<p>
+Step 7: Search for Storage Accounts
+In the search bar at the top of the Azure Portal, type storage accounts.
+Select Storage accounts from the results.
+</p>
+<br />
+
+
+
 
 
