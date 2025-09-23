@@ -165,8 +165,35 @@ Go to the Review + create tab.
 Review all details: subscription, Resource Group, name, region, redundancy, and security.
 If everything looks correct, click Create.
  </p>
+<br />
 
+<p>
+ <img width="1136" height="443" alt="Sc11" src="https://github.com/user-attachments/assets/86539345-e9d9-4835-bbaa-fd5448bc5818" />
+ </p>
+ <p>
+ Step 13: Confirm deployment completion
 
+After a short time, Azure will confirm your deployment.
+You’ll see a green check mark and the message Your deployment is complete.
+Click Go to resource to open the new Storage Account.
+ </p>
+<br />
+
+<p>
+ <img width="1534" height="878" alt="Sc12" src="https://github.com/user-attachments/assets/0b2e3238-9b7b-44ff-87fa-f972ca865d4a" />
+</p>
+<p>
+  Step 14: View your Storage Account overview
+
+You’ll be redirected to the Storage Account overview page.
+Here, you can see all essential details such as:
+Resource group (Demo-Project-Marcus)
+Location (East US)
+Replication (LRS)
+Performance (Standard)
+On the left-hand menu, you can also manage containers, file shares, tables, and security.
+</p>
+<br />
 
 
 
