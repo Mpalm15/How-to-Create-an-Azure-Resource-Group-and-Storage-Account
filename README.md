@@ -1,6 +1,6 @@
 <h2>How To Create An Azure Resource Group And Storage Account<h2>
 <p align="center">
-<img width="654" height="627" alt="azure" src="https://github.com/user-attachments/assets/142a49fe-79f1-40e3-aa4e-c0b7d7bfe3b0" />
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>Azure - Prerequisites and Installation</h1>
@@ -34,12 +34,13 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 <h2>Installation Steps</h2>
 
 <p>
+
+Part 1: Create a Resource Group
+
 <img width="1100" height="213" alt="sc1" src="https://github.com/user-attachments/assets/020eda54-a535-4830-b69a-82ace6935679" />
 
 </p>
 <p>
-Part 1: Create a Resource Group
-  
 Step 1: Open the Azure Portal
 
 In your browser, go to https://portal.azure.com and log in using your Microsoft Azure account.
