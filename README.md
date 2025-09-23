@@ -135,8 +135,36 @@ Select the Resource Group you just created (Demo-Project-Marcus)
 <br />
 
 <p>
-  
+<img width="743" height="373" alt="Sc9" src="https://github.com/user-attachments/assets/ef787e09-95d0-4fa0-ade3-afe10070131f" />
 </p>
+<p>
+Step 10: Configure instance details
+
+Enter a globally unique Storage account name (e.g., marcus15storageaccount).
+Select the same Region as your Resource Group (e.g., (US) East US).
+Performance: Select Standard (recommended for most cases).
+Redundancy: Choose Locally-redundant storage (LRS) if cost is more important than durability.
+</p>
+<br />
+
+<p>
+ <img width="733" height="869" alt="Sc10" src="https://github.com/user-attachments/assets/fc630204-5a0e-4240-97f4-8c5c59d36aa5" />
+ </p>
+ <p>
+   Step 11: Review advanced and security settings
+
+Leave advanced options (SFTP, hierarchical namespace, etc.) disabled unless required.
+Security defaults:
+Secure transfer = Enabled
+Blob anonymous access = Disabled
+Allow storage account key access = Enabled
+
+Step 12: Review and create the Storage Account
+
+Go to the Review + create tab.
+Review all details: subscription, Resource Group, name, region, redundancy, and security.
+If everything looks correct, click Create.
+ </p>
 
 
 
