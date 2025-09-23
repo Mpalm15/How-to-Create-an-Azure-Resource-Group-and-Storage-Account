@@ -34,10 +34,16 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1100" height="213" alt="sc1" src="https://github.com/user-attachments/assets/020eda54-a535-4830-b69a-82ace6935679" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Part 1: Create a Resource Group
+  
+Step 1: Open the Azure Portal
+
+In your browser, go to https://portal.azure.com and log in using your Microsoft Azure account.
+Once signed in, you’ll see the Azure Portal dashboard with service icons such as Virtual Machines, Resource Groups, and Storage Accounts.
 </p>
 <br />
 
