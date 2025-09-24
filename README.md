@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 
 </p>
 <p>
-<h1>Step 1: Open the Azure Portal<h1>
+<h3>Step 1: Open the Azure Portal<h3>
 
 In your browser, go to https://portal.azure.com and log in using your Microsoft Azure account.
 Once signed in, you’ll see the Azure Portal dashboard with service icons such as Virtual Machines, Resource Groups, and Storage Accounts.
