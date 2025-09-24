@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of an Azure resource g
 <p>
 
 <h2>Part 1: Create a Resource Group</h2>
----------------------------------------------------------------------------------
+
 <img width="1100" height="213" alt="sc1" src="https://github.com/user-attachments/assets/020eda54-a535-4830-b69a-82ace6935679" />
 
 </p>
