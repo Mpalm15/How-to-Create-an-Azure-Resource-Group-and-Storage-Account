@@ -47,7 +47,7 @@ In your browser, go to https://portal.azure.com and log in using your Microsoft 
 Once signed in, you’ll see the Azure Portal dashboard with service icons such as Virtual Machines, Resource Groups, and Storage Accounts.
 </p>
 <br />
-column-gap
+
 <p>
 <img width="647" height="224" alt="Sc2" src="https://github.com/user-attachments/assets/1157626b-a411-4cf4-8e4c-0ba5cd0dae32" />
 </p>
